@@ -1,8 +1,7 @@
-Chat bot with React/Redux/DialogFlow
+Chat bot with React / Redux / DialogFlow
 
 ## Table of Contents
 - [Chat bot system](#chat-bot-system)
-- [UML diagram](#uml-diagram)
 - [Objectives](#ojectives)
 - [Live Demo](#live-demo)
 

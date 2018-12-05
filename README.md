@@ -2,15 +2,15 @@ Chat bot with React/Redux/DialogFlow
 
 ## Table of Contents
 - [Chat bot system](#chat-bot-system)
-- [To Do List](#todo-list)
 - [UML diagram](#uml-diagram)
 - [Objectives](#ojectives)
 - [Live Demo](#live-demo)
 
 ## Chat bot system
 
--Write something and have a chat with the bot
--The bot understand english words
+- Write something and have a chat with the bot.
+
+- The bot understand english words.
 
 ## Objectives
 // PROYECTO FINAL // 

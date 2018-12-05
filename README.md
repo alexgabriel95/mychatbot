@@ -1,5 +1,7 @@
 Chat bot with React / Redux / DialogFlow
 
+-Alex Gabriel Rios Velazquez
+
 ## Table of Contents
 - [Chat bot system](#chat-bot-system)
 - [Objectives](#ojectives)
